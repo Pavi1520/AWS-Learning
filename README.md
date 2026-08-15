@@ -1,1 +1,1 @@
-# AWS-Learning
+# AWS-Learning-EC2
